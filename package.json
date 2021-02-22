@@ -1,0 +1,8 @@
+{
+	"name": "@casualjs/utils",
+	"version": "0.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/casualjs/utils.git",
+	"author": "Jarvis <418536538@qq.com>",
+	"license": "MIT"
+}
